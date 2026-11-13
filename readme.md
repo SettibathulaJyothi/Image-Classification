@@ -1,9 +1,4 @@
-<img width="900" height="150" alt="LoopProcessingGIFbybigblueboo" src="https://github.com/user-attachments/assets/6ddccc9b-e5c0-455d-ab35-a7eba5a14631" />
-
-# Deep Learning Image Processing/Image Classification
- 
-<img width="100" height="150" alt="AiDiscoverGIFby1XTechnologies" src="https://github.com/user-attachments/assets/f4ee9017-12f3-4170-b938-5b9dca325102" />  
-
+## Deep Learning Image Processing/Image Classification
 A practical **Deep Learning and Image Processing** project using Python, TensorFlow, Keras, OpenCV, and other supporting libraries.
 
 ### Technologies Used
