@@ -1,7 +1,7 @@
 ## Deep Learning Image Processing/Image Classification
 A practical **Deep Learning and Image Processing** project using Python, TensorFlow, Keras, OpenCV, and other supporting libraries.
 
-### Technologies Used
+### Technologies Used 
 
 * Python
 * TensorFlow
